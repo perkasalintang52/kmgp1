@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By KAMAGAPO BOT.
+   * Contact Me on wa.me/6281322577123
+   * Follow https://github.com/perkasalintang52
 */
 
 require('./settings')
